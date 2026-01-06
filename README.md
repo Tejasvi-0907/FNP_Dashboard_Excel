@@ -13,7 +13,7 @@ The final dashboard helps stakeholders understand key patterns and make better b
 
 ## Key Objectives & Insights
 1. Total Revenue
-
+   
 Calculated the overall revenue generated throughout 2023.
 
 2. Average Order & Delivery Time
